@@ -6,13 +6,6 @@ I build product-grade web applications, payment & backend infrastructure, and NL
 
 ---
 
-**Selected Work**
-
-- **[santri.vip](https://santri.vip)** — Personal engineering portfolio and digital workspace.
-- **[dnn](https://github.com/lutfialhakim/dnn)** / **[ml](https://github.com/lutfialhakim/ml)** — Deep learning and machine learning experiments in Python (TensorFlow, Keras, scikit-learn).
-- **[lutfialhakim.github.io](https://github.com/lutfialhakim/lutfialhakim.github.io)** — Web utilities and interactive *Dua Kulah* fiqh calculator.
-- **[PVisual](https://github.com/lutfialhakim/PVisual)** — Desktop utilities and prayer time scheduler in C# (.NET).
-
 **Stack**
 
 `TypeScript` · `Go` · `Python` · `Node.js` · `React` · `Next.js` · `SvelteKit` · `Hono` · `Tailwind CSS` · `PostgreSQL` · `Docker` · `Cloudflare`
