@@ -1,13 +1,11 @@
-# Halo, saya Lutfi Alhakim 👋
+# Halo, saya Lutfi Alhakim 
 
 Saya tertarik pada **Machine Learning**, **Deep Learning**, dan **NLP** — termasuk penerapannya untuk teks Arab klasik.
 
-## 🔭 Fokus saat ini
+## Fokus saat ini
 
 - **Pencarian semantik kitab** — membangun sistem pencarian berbasis makna untuk *Matn al-Ghayah wa at-Taqrib* (fikih Syafi'i)
 - Machine Learning & Deep Learning dengan Python
-
-## 📌 Proyek pilihan
 
 | Proyek | Deskripsi |
 | --- | --- |
@@ -17,6 +15,6 @@ Saya tertarik pada **Machine Learning**, **Deep Learning**, dan **NLP** — term
 | [PVisual](https://github.com/lutfialhakim/PVisual) | Tugas Pemrograman Visual (C#), termasuk aplikasi jadwal sholat |
 | [lutfialhakim.github.io](https://github.com/lutfialhakim/lutfialhakim.github.io) | Website pribadi & Dua Kulah Calculator |
 
-## 🛠️ Teknologi
+## Teknologi
 
 Python · scikit-learn · TensorFlow/Keras · Streamlit · C# · HTML
