@@ -8,7 +8,7 @@ I build product-grade web applications, payment & backend infrastructure, and NL
 
 **Stack**
 
-`TypeScript` · `Go` · `Python` · `Node.js` · `React` · `Next.js` · `SvelteKit` · `Hono` · `Tailwind CSS` · `PostgreSQL` · `Docker` · `Cloudflare`
+`TypeScript` · `Go` · `Python` · `Node.js` · `React` · `Next.js` · `SvelteKit`  · `Tailwind CSS` · `PostgreSQL` · `Docker` · `Cloudflare`
 
 ---
 
