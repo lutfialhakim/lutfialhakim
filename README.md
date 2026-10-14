@@ -1,7 +1,6 @@
-### Lutfi Alhakim
+## Lutfi Alhakim
 
 Full-stack engineer focused on developer experience, scalable web systems, and applied AI. Working remotely.
-
 I build product-grade web applications, payment & backend infrastructure, and NLP tools—including semantic search systems for classical Arabic texts (*Turath*).
 
 ---
